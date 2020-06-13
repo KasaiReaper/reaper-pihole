@@ -1,0 +1,7 @@
+# List for blocking ads and tracking in wildcard
+# Credits for additional entries given above the entries provided
+
+# List can not be used directly in Pi-hole
+# Instead manually add them via the web gui
+
+online-metrix.net
